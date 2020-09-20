@@ -23,7 +23,12 @@ interface Bot {
 }
 const bot: Bot = {
   commands: new Map,
-  aliases: new Map
+  aliases: new Map,
+  user: {
+    avatarURL () { return '' },
+    username: 'nxtline'
+  },
+    
 }
 
 async function rreaddir (dir: string, allFiles: string[] = []): Promise<string[]> {
