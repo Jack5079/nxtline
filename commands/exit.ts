@@ -1,6 +1,6 @@
 export const desc = 'Close nxt.'
 
-export function run () {
+export function run (): string {
   setTimeout(process.exit)
   return 'Goodbye!'  
 }
