@@ -1,19 +1,7 @@
-# nxtline
+# trollsmile-cli
 
 ```text
-                                        u@@@@@U
-                                        Q@@@@@=
-   =VVVVV_ `~YIHqKV*-kjzkyy.      _VVyyk@@@@@@yVVT
-   R@@@@@:e@@@@@@@@@@#@@@@@R     i@@@@@@@@@@@@@@@Z
-  `@@@@@##@B$$#@@@@@@@#@@@@@V  -0@@@@BM@@@@@@dMMM~
-  x@@@@@@T'    :#@@@@@XM@@@@@;i@@@@@z :@@@@@B
-  E@@@@@*       8@@@@@*`8@@@@@@@@@Q:  k@@@@@V
- -@@@@@#       '@@@@@@` _@@@@@@@@I    B@@@@@,
- T@@@@@s       x@@@@@M ~B@@@@@@@@Q'  ;@@@@@g
- Q@@@@@!       0@@@@@xZ@@@@#u@@@@@8` 3@@@@@Y
-:@@@@@Q       _@@@@@@@@@@@Z` \@@@@@d #@@@@@6)r=
-k@@@@@V       u@@@@@@@@@#*    c@@@@@PM@@@@@@@@6
-EBBBBB,       dBBBBBBBBG`      sBBBBBv(ZB@@@@#G
+^_^ trollsmile
 ```
 
-fuck it nxt in da command line
+fuck it trollsmile in da command line
